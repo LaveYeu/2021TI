@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "oled.h": "c",
+        "sys.h": "c",
+        "inv_mpu.h": "c",
+        "inv_mpu_dmp_motion_driver.h": "c",
+        "headfile.h": "c",
+        "nrf.h": "c",
+        "spi.h": "c",
+        "pid.h": "c",
+        "systime.h": "c",
+        "loop.h": "c",
+        "pwm.h": "c",
+        "key.h": "c",
+        "usart.h": "c",
+        "trx.h": "c",
+        "usart1.h": "c"
+    }
+}
